@@ -1,0 +1,13 @@
+biolockj requires at least one argument.
+BioLockJ v1.2 - UNCC Fodor Lab July 2018
+Most args can be passed using 1st letter only (with or without hyphens)
+    Run new pipeline:        config   <file_path>
+    Restart pipeline:        restart  <dir_path>
+    Encrypt password:        pass     <password>
+    Show help menu:          help
+    Show version:            version
+    Run on AWS:              aws
+    Run in Docker:           docker
+    Run Docker GUI:          gui
+    Mount Docker BLJ         blj
+    Mount Docker BLJ_SUP     blj_sup

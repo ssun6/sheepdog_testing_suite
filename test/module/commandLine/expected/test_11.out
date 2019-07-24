@@ -1,7 +1,8 @@
-Using  baz  as the pipeline to restart.
-showcallonly=default
-pass=default
-configoverride=default
-restart=true
-aws=default
-docker=default
+showcallonly = default
+gui = default
+pass = default
+configoverride = default
+restart = true
+aws = default
+docker = default
+Using baz as the pipeline to restart.

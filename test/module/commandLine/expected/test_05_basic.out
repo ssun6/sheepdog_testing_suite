@@ -1,8 +1,8 @@
 showcallonly = default
 gui = default
-pass = bar
+pass = default
 configoverride = default
-restart = true
+restart = default
 aws = default
 docker = default
-Using baz as the pipeline to restart.
+Using example.properties as the config file.
