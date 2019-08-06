@@ -64,6 +64,13 @@ biolockj_args example.properties 1> ${id}.out 2>${id}.err
 check_it
 
 
+id=test_6_r
+biolockj_args -r example.properties 1> ${id}.out 2>${id}.err
+check_it
+
+id=test_6_restart
+biolockj_args --restart example.properties 1> ${id}.out 2>${id}.err
+check_it
 
 
 id=test_10

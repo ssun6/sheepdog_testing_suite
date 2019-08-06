@@ -1,0 +1,8 @@
+showcallonly = default
+gui = default
+pass = default
+configoverride = default
+restart = true
+aws = default
+docker = default
+Using example.properties as the pipeline to restart.
